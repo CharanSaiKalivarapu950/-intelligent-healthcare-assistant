@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+datasets/
+models/*.pth
+models/*.pt
+models/*.pkl
+medical_documents/raw/*
+medical_documents/index/*
